@@ -1,0 +1,5 @@
+TARGET_PRODUCT:=android_x86
+TARGET_BUILD_VARIANT:=userdebug
+TARGET_BUILD_TYPE:=release
+TARGET_KERNEL_CONFIG:=android-x86_defconfig
+USE_SQUASHFS := 0
